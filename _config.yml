@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -24,20 +24,22 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+      - personal-website
+      - ShopifyDeveloperChallenge
+      - PortfolioWebsite
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  hackerrank: djoksimo
   # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
+  keybase: jokdanilo
+  linkedin: djoksimo
   # mastodon: your_username
-  # medium: your_username
+  medium: jokdanilo
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
@@ -47,12 +49,47 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Security
+    web_url: https://github.com/topics/security
+    image_url: https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg
+    
+  - name: React Native
+    web_url: https://github.com/topics/react-native
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png
 
-  - name: Web design
+  - name: Go
+    web_url: https://github.com/topics/golang
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
+
+  - name: Blockchain
+    web_url: https://github.com/topics/blockchain
+  
+  - name: Angular
+    web_url: https://github.com/topics/angular
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
+
+  - name: Machine Learning
+    web_url: https://github.com/topics/machine-learning
+  
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
+
+  - name: AWS
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+
+  - name: MongoDB
+    web_url: https://github.com/topics/mongodb
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png
+
+  - name: Node.js
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+
+  - name: VR
+    web_url: https://github.com/topics/virtual-reality
