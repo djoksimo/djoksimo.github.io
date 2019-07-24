@@ -31,22 +31,10 @@ projects:
       - PortfolioWebsite
 
 social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
   hackerrank: djoksimo
-  # instagram: your_username
   keybase: jokdanilo
   linkedin: djoksimo
-  # mastodon: your_username
   medium: jokdanilo
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
 
 topics:
   - name: Security
